@@ -23,7 +23,6 @@ const Index = () => (
             <a className="linkedin" target="_blank" href="https://www.linkedin.com/in/mattsmithabb">LinkedIn</a>
             <a className="twitter" target="_blank" href="https://www.twitter.com/mattsmithabb">Twitter</a>
             <a className="email" href="mailto:mattsmithabb@icloud.com">Email</a>
-            <a className="archive secondary" target="_blank" href="https://web.archive.org/web/20181223013922/http://www.chaosm.net/blog/">Older stuff</a>
         </nav>
     </div>
 )
