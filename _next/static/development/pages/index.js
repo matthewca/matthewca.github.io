@@ -5998,16 +5998,7 @@ var Index = function Index() {
       lineNumber: 25
     },
     __self: this
-  }, "Email"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    className: "archive secondary",
-    target: "_blank",
-    href: "https://web.archive.org/web/20181223013922/http://www.chaosm.net/blog/",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: this
-  }, "Older stuff")));
+  }, "Email")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
