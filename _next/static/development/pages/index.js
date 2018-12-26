@@ -5942,16 +5942,34 @@ var Index = function Index() {
       lineNumber: 8
     },
     __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
+    dangerouslySetInnerHTML: {
+      __html: "(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n            (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n            ym(51715271, \"init\", {\n                    id:51715271,\n                    clickmap:true,\n                    trackLinks:true,\n                    accurateTrackBounce:true,\n                    webvisor:true\n            });"
+    },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
+      lineNumber: 9
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("noscript", {
+    dangerouslySetInnerHTML: {
+      __html: "<div><img src=\"https://mc.yandex.ru/watch/51715271\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div>"
+    },
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
     },
     __self: this
   }, "Matt Smith"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
+      lineNumber: 22
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -5960,7 +5978,7 @@ var Index = function Index() {
     href: "https://www.linkedin.com/in/mattsmithabb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
+      lineNumber: 23
     },
     __self: this
   }, "LinkedIn"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -5969,7 +5987,7 @@ var Index = function Index() {
     href: "https://www.twitter.com/mattsmithabb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
+      lineNumber: 24
     },
     __self: this
   }, "Twitter"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -5977,7 +5995,7 @@ var Index = function Index() {
     href: "mailto:mattsmithabb@icloud.com",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
+      lineNumber: 25
     },
     __self: this
   }, "Email"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -5986,7 +6004,7 @@ var Index = function Index() {
     href: "https://web.archive.org/web/20181223013922/http://www.chaosm.net/blog/",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 26
     },
     __self: this
   }, "Older stuff")));
