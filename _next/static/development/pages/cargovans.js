@@ -1,4 +1,4 @@
-((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/index.js"],{
+((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/cargovans.js"],{
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/array/from.js":
 /*!*******************************************************************!*\
@@ -5894,10 +5894,10 @@ module.exports = function(originalModule) {
 
 /***/ }),
 
-/***/ "./pages/index.js":
-/*!************************!*\
-  !*** ./pages/index.js ***!
-  \************************/
+/***/ "./pages/cargovans.js":
+/*!****************************!*\
+  !*** ./pages/cargovans.js ***!
+  \****************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5909,7 +5909,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../style.css */ "./style.css");
 /* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_style_css__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/matthewsmith/Websites/matthewca/src/pages/index.js";
+var _jsxFileName = "/Users/matthewsmith/Websites/matthewca/src/pages/cargovans.js";
 
 
 
@@ -5934,7 +5934,7 @@ var Index = function Index() {
       lineNumber: 7
     },
     __self: this
-  }, "Matt Smith"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+  }, "SBAuto - www.cargovans.ca - Thanks for 40 years!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
     name: "viewport",
     content: "initial-scale=1.0, width=device-width",
     __source: {
@@ -5966,39 +5966,21 @@ var Index = function Index() {
       lineNumber: 21
     },
     __self: this
-  }, "Matt Smith"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
+  }, "Thanks for 40 years!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 22
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    className: "linkedin",
-    target: "_blank",
-    href: "https://www.linkedin.com/in/mattsmithabb",
+    className: "email",
+    href: "mailto:sales@sbauto.com",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23
     },
     __self: this
-  }, "LinkedIn"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    className: "twitter",
-    target: "_blank",
-    href: "https://www.twitter.com/mattsmithabb",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: this
-  }, "Twitter"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    className: "email",
-    href: "mailto:mattsmithabb@icloud.com",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
-  }, "Email")));
+  }, "sales@sbauto.com")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
@@ -6018,21 +6000,21 @@ var Index = function Index() {
           next.router.update(r, Component)
         }
       }
-    })(typeof __webpack_exports__ !== 'undefined' ? __webpack_exports__.default : (module.exports.default || module.exports), "/")
+    })(typeof __webpack_exports__ !== 'undefined' ? __webpack_exports__.default : (module.exports.default || module.exports), "/cargovans")
   
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../node_modules/webpack/buildin/harmony-module.js */ "./node_modules/webpack/buildin/harmony-module.js")(module)))
 
 /***/ }),
 
 /***/ 3:
-/*!******************************!*\
-  !*** multi ./pages/index.js ***!
-  \******************************/
+/*!**********************************!*\
+  !*** multi ./pages/cargovans.js ***!
+  \**********************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__NEXT_REGISTER_PAGE('/', function() {
-module.exports = __webpack_require__(/*! ./pages/index.js */"./pages/index.js");
+__NEXT_REGISTER_PAGE('/cargovans', function() {
+module.exports = __webpack_require__(/*! ./pages/cargovans.js */"./pages/cargovans.js");
 
 return { page: module.exports.default }});
 
@@ -6050,4 +6032,4 @@ module.exports = dll_b2d9fd95b535cd8bf589;
 /***/ })
 
 },[[3,"static/runtime/webpack.js","styles"]]]));;
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=cargovans.js.map
