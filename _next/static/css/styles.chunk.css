@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Damion&display=swap);
 body {
     font-family: Monospace, Courier;
     font-size: 16px;
@@ -41,6 +42,10 @@ a.secondary:hover {
     margin-top: 0;
     font-size: 1rem;
 }
+.home h1.alternate {
+    font-size: 3rem;
+    font-family: 'Damion', cursive; 
+}
 .home nav a {
     display: inline-block;
     padding: 0 0.2rem;
@@ -55,6 +60,11 @@ a.secondary:hover {
     position: absolute;
     right: 1.4rem;
     bottom: 1.4rem;
+}
+@media (max-width: 480px) {
+    .home h1.alternate {
+        font-size: 2.5rem;
+    }
 }
 
 /*# sourceMappingURL=styles.chunk.css.map*/

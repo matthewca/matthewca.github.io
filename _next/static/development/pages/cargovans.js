@@ -5961,6 +5961,7 @@ var Index = function Index() {
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    class: "alternate",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 21
@@ -6006,7 +6007,7 @@ var Index = function Index() {
 
 /***/ }),
 
-/***/ 3:
+/***/ 6:
 /*!**********************************!*\
   !*** multi ./pages/cargovans.js ***!
   \**********************************/
@@ -6031,5 +6032,5 @@ module.exports = dll_b2d9fd95b535cd8bf589;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js","styles"]]]));;
+},[[6,"static/runtime/webpack.js","styles"]]]));;
 //# sourceMappingURL=cargovans.js.map
