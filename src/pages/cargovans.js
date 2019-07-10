@@ -18,7 +18,7 @@ const Index = () => (
             });`}} />
         </Head>
         <noscript dangerouslySetInnerHTML={{__html: `<div><img src="https://mc.yandex.ru/watch/51715271" style="position:absolute; left:-9999px;" alt="" /></div>`}} />
-        <h1>Thanks for 40 years!</h1>
+        <h1 class="alternate">Thanks for 40 years!</h1>
         <nav>
             <a className="email" href="mailto:sales@sbauto.com">sales@sbauto.com</a>
         </nav>
