@@ -5,6 +5,7 @@ const Index = () => (
     <div className="home">
         <Head>
             <title>Matt Smith</title>
+            <meta name="yandex-verification" content="a4a2d2a204f8ae51" />
             <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             <script dangerouslySetInnerHTML={{__html: `(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
             m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
