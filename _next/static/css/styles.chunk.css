@@ -45,6 +45,7 @@ a.secondary:hover {
 .home h1.alternate {
     font-size: 3rem;
     font-family: 'Damion', cursive; 
+    font-weight: normal;
 }
 .home nav a {
     display: inline-block;
